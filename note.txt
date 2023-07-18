@@ -1,0 +1,106 @@
+background: rgb(210,218,96);
+background: linear-gradient(38deg, rgba(210,218,96,1) 0%, rgba(210,218,96,1) 42%, rgba(7,150,216,1) 72%);
+
+
+
+background: linear-gradient(-135deg, #c850c0, #4158d0);
+  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+
+
+  
+  function OnClick(){
+            window.open('https://www.spendlifetraveling.com/facts-about-dubai/', '_blank');
+        }
+
+        onclick="onclick()
+
+        //slick slider//
+        <div class="slick-slider">
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-1.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-2.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-3.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-4.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-5.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  
+
+</div>
+             <div class="slick-slider">
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-6.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-7.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-8.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-1.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  <div class="element element-1">
+    <img width="100%" class="gallery" src="./assets/images/gallery-2.png" alt="">
+    <div class="content" onclick="onclick()">
+      <h2 class="gallery-text ">DECONSTRUCTION</h2>
+      <p class="gallery-text-1">Digital Paint, Painting, Realism</p>
+      <img class="pb-3" src="./assets/images/Group 16.png" alt="">
+    </div>
+  </div>
+  
+
+</div>
+//slick slider//

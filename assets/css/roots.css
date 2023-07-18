@@ -1,0 +1,31 @@
+:root {
+    --fs-sm:14px;
+    --fs-md:18px;
+    --fs-lg:24px;
+    --fs-xl:36px;
+    --fs-xxl:48px;
+    --primary-color:white;
+    --color-black:black;
+}
+
+.--fs-sm{
+    font-size: 14px;
+}
+.--fs-md{
+        font-size:18px ;
+}
+.--fs-lg{
+    font-size:24px;
+}
+.--fs-xl{
+    font-size:36px;
+}
+.--fs-xxl{
+    font-size: 48px;
+}
+.--primary-color{
+    color: white;
+}
+.--color-black{
+    color: black;
+}
