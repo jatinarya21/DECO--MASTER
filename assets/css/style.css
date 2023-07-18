@@ -776,7 +776,7 @@ button:hover::before {
   }
 }
 
-@media (min-width:1200px) {
+/* @media (min-width:1200px) {
   .border-bottom-1-xl {
     border-bottom: 2px dotted black;
   }
@@ -799,4 +799,4 @@ button:hover::before {
   }
 
 
-}
+} */
