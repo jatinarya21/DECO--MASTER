@@ -595,6 +595,13 @@ button:hover::before {
   }
 }
 
+.ml-xl-60 {
+  margin-left: 60px !important;
+}
+
+.ml-xl-30 {
+  margin-left: 30px !important;
+}
 
 
 .page-1-heading {
@@ -769,7 +776,7 @@ button:hover::before {
   }
 }
 
-@media (min-width:1200px) and (max-width:1400px) {
+@media (min-width:1200px) {
   .border-bottom-1-xl {
     border-bottom: 2px dotted black;
   }
@@ -783,10 +790,13 @@ button:hover::before {
 
   }
 
+  .page-1-para-xl {
+    font-size: 18px;
+  }
+
   .dot-typing-1-xl {
     left: -9378px;
   }
-  .page-1-para{
-    font-size: 18px;
-  }
+
+
 }
