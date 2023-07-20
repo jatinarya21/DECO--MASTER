@@ -1,4 +1,5 @@
 :root {
+    --fs-xs:12px;
     --fs-sm:14px;
     --fs-md:18px;
     --fs-lg:24px;
@@ -8,6 +9,9 @@
     --color-black:black;
 }
 
+.--fs-xs{
+    font-size: 12px;
+}
 .--fs-sm{
     font-size: 14px;
 }
