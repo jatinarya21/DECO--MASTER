@@ -104,3 +104,11 @@ background: linear-gradient(-135deg, #c850c0, #4158d0);
 
 </div>
 //slick slider//
+
+
+
+ <div class="col-12 col-lg-6 position-relative">
+                        <img class=" d-none d-lg-block " src="./assets/images/section8_color_image.png" alt="section8_color_image">
+                    </div>
+                <div class="col-12 mt-4 col-lg-6 section6box"><img class="w-100" src="./assets/images/floating.png" alt="section8_image">
+                </div>

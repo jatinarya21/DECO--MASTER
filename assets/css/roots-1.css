@@ -29,3 +29,100 @@
 .--color-black{
     color: black;
 }
+
+
+:root{
+    --fs-18:12px;
+    --fs-20:20px;
+    --fs-24:24px;
+    --fs-36:36px;
+    --fs-48:48px;
+    --fs-64:64px;
+    --fs-144:41px;
+}
+
+.fs-18{
+    font-size: var(--fs-18);
+}
+
+.fs-24{
+    font-size: var(--fs-24);
+}
+
+.fs-20{
+    font-size: var(--fs-20);
+}
+
+.fs-144{
+    font-size: var(--fs-144);
+}
+
+.fs-48{
+    font-size: var(--fs-48);
+}
+
+.fs-36{
+    font-size: var(--fs-36);
+}
+
+
+.fs-64{
+    font-size: var(--fs-64);
+}
+
+
+
+@media (min-width:576px) {
+    :root{
+        --fs-18:18px;
+        --fs-20:20px;
+        --fs-24:18px;
+        --fs-144:75px;
+        --fs-48:48px;
+    
+    }
+
+}
+
+@media (min-width:768px) {
+    :root{
+        --fs-18:18px;
+        --fs-20:20px;
+        --fs-24:20px;
+        --fs-144:90px;
+        --fs-48:48px;
+    
+    }
+  
+}
+
+@media (min-width:992px) {
+    :root{
+        --fs-18:18px;
+        --fs-20:20px;
+        --fs-24:22px;
+        --fs-144:110px;
+        --fs-48:48px;
+    
+    }
+
+    .text_width1 {
+        width: 292px;
+    }
+  
+}
+
+@media (min-width:1200px) {
+    :root{
+        --fs-18:18px;
+        --fs-20:20px;
+        --fs-24:24px;
+        --fs-144:144px;
+        --fs-48:48px;
+    
+    }
+  
+}
+
+
+
